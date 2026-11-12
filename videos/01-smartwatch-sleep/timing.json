@@ -1,0 +1,344 @@
+[
+{
+"p": 0,
+"text": "This morning your watch told you that you got one hour and twelve minutes of deep sleep.",
+"start": 0.0,
+"end": 5.3
+},
+{
+"p": 0,
+"text": "Here is the strange part: your watch has never seen your brain.",
+"start": 5.89,
+"end": 10.07
+},
+{
+"p": 0,
+"text": "And deep sleep is defined by what your brain is doing.",
+"start": 10.69,
+"end": 13.72
+},
+{
+"p": 0,
+"text": "So where did that number come from?",
+"start": 14.2,
+"end": 16.19
+},
+{
+"p": 1,
+"text": "In a sleep lab, a night of sleep is measured with a test called polysomnography.",
+"start": 16.93,
+"end": 21.67
+},
+{
+"p": 1,
+"text": "Sensors on your scalp record brain waves.",
+"start": 22.29,
+"end": 24.69
+},
+{
+"p": 1,
+"text": "Others track eye movements and muscle tone.",
+"start": 25.15,
+"end": 27.53
+},
+{
+"p": 1,
+"text": "Technicians then label the night in thirty-second blocks: light sleep, deep sleep, REM.",
+"start": 28.15,
+"end": 34.18
+},
+{
+"p": 2,
+"text": "The key point: those stages are defined mostly by electrical activity in the brain.",
+"start": 34.88,
+"end": 40.3
+},
+{
+"p": 2,
+"text": "Deep sleep means slow, large brain waves.",
+"start": 40.97,
+"end": 43.91
+},
+{
+"p": 2,
+"text": "REM means an active brain, darting eyes, and muscles that are almost completely relaxed.",
+"start": 44.4,
+"end": 50.06
+},
+{
+"p": 3,
+"text": "Your watch sits on your wrist.",
+"start": 50.7,
+"end": 52.58
+},
+{
+"p": 3,
+"text": "It has no access to any of that.",
+"start": 53.02,
+"end": 55.27
+},
+{
+"p": 4,
+"text": "A typical smartwatch has two sensors doing the work.",
+"start": 56.0,
+"end": 58.97
+},
+{
+"p": 5,
+"text": "The first is an accelerometer.",
+"start": 59.52,
+"end": 61.18
+},
+{
+"p": 5,
+"text": "It detects motion.",
+"start": 61.67,
+"end": 62.68
+},
+{
+"p": 5,
+"text": "When you stop moving for a long stretch, the watch guesses you are asleep.",
+"start": 63.27,
+"end": 67.18
+},
+{
+"p": 5,
+"text": "Sleep researchers have used this idea for decades.",
+"start": 67.79,
+"end": 70.65
+},
+{
+"p": 5,
+"text": "It is called actigraphy.",
+"start": 71.05,
+"end": 72.47
+},
+{
+"p": 6,
+"text": "The second is the green light on the back.",
+"start": 73.2,
+"end": 75.39
+},
+{
+"p": 6,
+"text": "Blood absorbs green light.",
+"start": 76.0,
+"end": 77.48
+},
+{
+"p": 6,
+"text": "Every heartbeat pushes a small wave of blood through your wrist, so the amount of light bouncing back changes with each beat.",
+"start": 78.07,
+"end": 84.91
+},
+{
+"p": 6,
+"text": "A tiny light sensor reads those changes.",
+"start": 85.51,
+"end": 88.01
+},
+{
+"p": 6,
+"text": "This method is called photoplethysmography, or PPG.",
+"start": 88.58,
+"end": 91.11
+},
+{
+"p": 7,
+"text": "From that pulse signal, the watch works out your heart rate, how much the time between beats varies, and often your breathing rate.",
+"start": 91.41,
+"end": 99.94
+},
+{
+"p": 8,
+"text": "So the raw ingredients are simple: movement and pulse.",
+"start": 100.61,
+"end": 104.28
+},
+{
+"p": 8,
+"text": "Nothing else.",
+"start": 104.67,
+"end": 105.43
+},
+{
+"p": 9,
+"text": "Your body behaves differently in each stage.",
+"start": 106.04,
+"end": 108.48
+},
+{
+"p": 9,
+"text": "In deep sleep, your heart rate is slow and steady and you barely move.",
+"start": 109.1,
+"end": 113.32
+},
+{
+"p": 9,
+"text": "In REM, your body is still, but your heart rate and breathing become more irregular.",
+"start": 114.04,
+"end": 118.81
+},
+{
+"p": 10,
+"text": "Companies train algorithms on nights recorded in sleep labs, where people wear the watch and the brain sensors at the same time.",
+"start": 119.5,
+"end": 126.69
+},
+{
+"p": 10,
+"text": "The algorithm learns which patterns of movement and pulse tend to match each stage.",
+"start": 127.29,
+"end": 133.79
+},
+{
+"p": 11,
+"text": "Then, on your wrist, it makes an educated guess.",
+"start": 134.1,
+"end": 135.64
+},
+{
+"p": 11,
+"text": "Your deep sleep number is an estimate built from your heartbeat, not a measurement of your brain.",
+"start": 136.24,
+"end": 143.77
+},
+{
+"p": 12,
+"text": "So how good is the guess?",
+"start": 144.38,
+"end": 145.78
+},
+{
+"p": 13,
+"text": "In 2021, researchers at a US Navy sleep lab tested seven consumer sleep trackers against polysomnography.",
+"start": 145.78,
+"end": 151.7
+},
+{
+"p": 13,
+"text": "The good news: the devices correctly caught at least 93 percent of the time people were truly asleep.",
+"start": 152.31,
+"end": 158.69
+},
+{
+"p": 13,
+"text": "They are fairly good at the big picture.",
+"start": 159.29,
+"end": 161.08
+},
+{
+"p": 14,
+"text": "They were much weaker at spotting wakefulness.",
+"start": 161.7,
+"end": 164.2
+},
+{
+"p": 14,
+"text": "When people were actually awake, the devices noticed only 18 to 54 percent of the time.",
+"start": 164.61,
+"end": 170.8
+},
+{
+"p": 14,
+"text": "Lying still looks a lot like sleep, so awake time gets counted as sleep.",
+"start": 171.41,
+"end": 176.46
+},
+{
+"p": 15,
+"text": "The stage breakdown was inconsistent too, and the devices got worse on nights of poor sleep.",
+"start": 176.97,
+"end": 182.41
+},
+{
+"p": 15,
+"text": "That study used healthy young adults and devices from a few years ago, so newer watches may do better.",
+"start": 182.96,
+"end": 189.03
+},
+{
+"p": 15,
+"text": "But the split between light, deep, and REM is still the least reliable part of your report.",
+"start": 189.53,
+"end": 195.02
+},
+{
+"p": 16,
+"text": "And sometimes, the score itself becomes the problem.",
+"start": 195.58,
+"end": 198.65
+},
+{
+"p": 17,
+"text": "In 2017, sleep researchers published three cases of patients so focused on perfecting their tracker data that it got in the way of their treatment.",
+"start": 199.27,
+"end": 208.27
+},
+{
+"p": 17,
+"text": "Some spent more and more time in bed chasing a better score, the opposite of what sleep therapists recommend.",
+"start": 208.73,
+"end": 215.26
+},
+{
+"p": 17,
+"text": "The researchers named it orthosomnia.",
+"start": 215.84,
+"end": 218.13
+},
+{
+"p": 18,
+"text": "A number meant to help you rest can become one more thing keeping you up.",
+"start": 218.71,
+"end": 222.85
+},
+{
+"p": 19,
+"text": "So here is how to use your sleep data.",
+"start": 223.5,
+"end": 225.91
+},
+{
+"p": 19,
+"text": "Three practical ideas.",
+"start": 226.47,
+"end": 227.96
+},
+{
+"p": 19,
+"text": "Look at trends over weeks, not one night.",
+"start": 228.63,
+"end": 231.28
+},
+{
+"p": 19,
+"text": "Trust total sleep time more than the stage breakdown.",
+"start": 231.9,
+"end": 234.95
+},
+{
+"p": 19,
+"text": "And weigh the score against how you actually feel during the day.",
+"start": 235.56,
+"end": 239.39
+},
+{
+"p": 20,
+"text": "Your watch is a useful estimate, not a diagnosis.",
+"start": 240.09,
+"end": 241.89
+},
+{
+"p": 20,
+"text": "If you have been sleeping badly for weeks, that is a conversation for a doctor, not an app.",
+"start": 242.22,
+"end": 248.5
+},
+{
+"p": 21,
+"text": "If you want to know how that green light reads your heart in the first place, that video is next.",
+"start": 248.89,
+"end": 255.56
+}
+]

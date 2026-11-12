@@ -1,0 +1,43 @@
+This morning your watch told you that you got one hour and twelve minutes of deep sleep. Here is the strange part: your watch has never seen your brain. And deep sleep is defined by what your brain is doing. So where did that number come from?
+
+In a sleep lab, a night of sleep is measured with a test called polysomnography. Sensors on your scalp record brain waves. Others track eye movements and muscle tone. Technicians then label the night in thirty-second blocks: light sleep, deep sleep, REM.
+
+The key point: those stages are defined mostly by electrical activity in the brain. Deep sleep means slow, large brain waves. REM means an active brain, darting eyes, and muscles that are almost completely relaxed.
+
+Your watch sits on your wrist. It has no access to any of that.
+
+A typical smartwatch has two sensors doing the work.
+
+The first is an accelerometer. It detects motion. When you stop moving for a long stretch, the watch guesses you are asleep. Sleep researchers have used this idea for decades. It is called actigraphy.
+
+The second is the green light on the back. Blood absorbs green light. Every heartbeat pushes a small wave of blood through your wrist, so the amount of light bouncing back changes with each beat. A tiny light sensor reads those changes. This method is called photoplethysmography, or PPG.
+
+From that pulse signal, the watch works out your heart rate, how much the time between beats varies, and often your breathing rate.
+
+So the raw ingredients are simple: movement and pulse. Nothing else.
+
+Your body behaves differently in each stage. In deep sleep, your heart rate is slow and steady and you barely move. In REM, your body is still, but your heart rate and breathing become more irregular.
+
+Companies train algorithms on nights recorded in sleep labs, where people wear the watch and the brain sensors at the same time. The algorithm learns which patterns of movement and pulse tend to match each stage.
+
+Then, on your wrist, it makes an educated guess. Your deep sleep number is an estimate built from your heartbeat, not a measurement of your brain.
+
+So how good is the guess?
+
+In 2021, researchers at a US Navy sleep lab tested seven consumer sleep trackers against polysomnography. The good news: the devices correctly caught at least 93 percent of the time people were truly asleep. They are fairly good at the big picture.
+
+They were much weaker at spotting wakefulness. When people were actually awake, the devices noticed only 18 to 54 percent of the time. Lying still looks a lot like sleep, so awake time gets counted as sleep.
+
+The stage breakdown was inconsistent too, and the devices got worse on nights of poor sleep. That study used healthy young adults and devices from a few years ago, so newer watches may do better. But the split between light, deep, and REM is still the least reliable part of your report.
+
+And sometimes, the score itself becomes the problem.
+
+In 2017, sleep researchers published three cases of patients so focused on perfecting their tracker data that it got in the way of their treatment. Some spent more and more time in bed chasing a better score, the opposite of what sleep therapists recommend. The researchers named it orthosomnia.
+
+A number meant to help you rest can become one more thing keeping you up.
+
+So here is how to use your sleep data. Three practical ideas. Look at trends over weeks, not one night. Trust total sleep time more than the stage breakdown. And weigh the score against how you actually feel during the day.
+
+Your watch is a useful estimate, not a diagnosis. If you have been sleeping badly for weeks, that is a conversation for a doctor, not an app.
+
+If you want to know how that green light reads your heart in the first place, that video is next.

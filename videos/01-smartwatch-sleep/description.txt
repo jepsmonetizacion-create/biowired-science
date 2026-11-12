@@ -1,0 +1,12 @@
+What Your Smartwatch Actually Knows About Your Sleep
+
+Your watch says you got 1h 12m of deep sleep. But it has never seen your brain. Here is what it really measures, how it turns movement and pulse into "sleep stages", and how much you should trust the result.
+
+Sources:
+- Chinoy et al. (2021), "Performance of seven consumer sleep-tracking devices compared with polysomnography", Sleep: https://pmc.ncbi.nlm.nih.gov/articles/PMC8120339
+- Baron et al. (2017), "Orthosomnia: Are Some Patients Taking the Quantified Self Too Far?", Journal of Clinical Sleep Medicine: https://pmc.ncbi.nlm.nih.gov/articles/PMC5263088
+- Harvard Medical School, Division of Sleep Medicine, on how heart rate and breathing change across sleep stages: https://sleep.hms.harvard.edu/node/73916
+
+Narration: AI-generated voice. Visuals: original animations made with code.
+
+Educational content only. Not medical advice.

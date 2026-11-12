@@ -1,0 +1,11 @@
+# Audio y video finales: pesan mucho, se guardan fuera de git
+*.mp3
+*.wav
+*.mp4
+*.mov
+prev/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
